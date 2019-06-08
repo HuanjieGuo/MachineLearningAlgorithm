@@ -9,14 +9,9 @@ def loadDataSet():
             ["a2", "a5"], ["a1", "a2", "a3", "a4", "a5"], ["a1", "a2", "a3", "a4"]]
 
 def createC1(dataSet):
-    C1 = []
     #add all items
     for transaction in dataSet:
         getSubList(transaction)
-    #rank
-    C1.sort()
-    #frozenset  can not add or delete any elements
-    return map(frozenset,C1)
 
 def getSubList(list):
     allSubList = [list]
@@ -78,22 +73,22 @@ def calculate_confidence():
             # calculate confidence
             if set(countTupleList[i][0]).issubset(set(countTupleList[j][0])):
                 # i位是j位的子集
-                rank_insert_confidence(countTupleList[i][0], countTupleList[j][0],
+                rank_insert_confidence(countTupleList[i][0], set(countTupleList[j][0])-set(countTupleList[i][0]),
                                        round(countTupleList[j][1]/countTupleList[i][1], 4))
             if set(countTupleList[j][0]).issubset(set(countTupleList[i][0])):
                 # j位是i位的子集
-                rank_insert_confidence(countTupleList[j][0], countTupleList[i][0],
+                rank_insert_confidence(countTupleList[j][0], set(countTupleList[i][0])-set(countTupleList[j][0]),
                                        round(countTupleList[i][1] / countTupleList[j][1], 4))
 
 
 def mainEntrance():
     # all order List
     myDat = loadDataSet()
+    print(myDat)
     # all element list
-    C1 = createC1(myDat)
+    createC1(myDat)
     # delete those sample which are less than minSupportCount
     trim_relations()
-    print("After trim ", countTupleList)
     # calculate
     calculate_confidence()
     # print
