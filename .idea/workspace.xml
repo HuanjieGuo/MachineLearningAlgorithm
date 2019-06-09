@@ -2,9 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0b55907e-54cc-4d02-9372-22d56e1ae22c" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/DecisionTree/DecisionTreeID3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Search/AStarAlgorithm.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Search/SearchAlgorithm.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/AprioriAlgorithm.py" beforeDir="false" afterPath="$PROJECT_DIR$/Apriori/AprioriAlgorithm.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Entrance.py" beforeDir="false" afterPath="$PROJECT_DIR$/Entrance.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -47,11 +47,29 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Entrance.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="45">
-              <caret line="3" column="35" lean-forward="true" selection-start-line="3" selection-start-column="35" selection-end-line="3" selection-end-column="35" />
+            <state relative-caret-position="75">
+              <caret line="5" column="29" selection-start-line="5" selection-start-column="29" selection-end-line="5" selection-end-column="29" />
               <folding>
                 <element signature="e#0#36#0" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Search/SearchAlgorithm.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-172">
+              <caret line="30" lean-forward="true" selection-end-line="56" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Search/AStarAlgorithm.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-1513">
+              <caret line="15" column="12" selection-start-line="15" selection-start-column="12" selection-end-line="15" selection-end-column="12" />
             </state>
           </provider>
         </entry>
@@ -103,13 +121,15 @@
         <option value="$PROJECT_DIR$/DecisionTree/decision_tree_data/discrete-training.txt" />
         <option value="$PROJECT_DIR$/Apriori/Test.py" />
         <option value="$PROJECT_DIR$/DecisionTree/DecisionTreeID3.py" />
+        <option value="$PROJECT_DIR$/Search/SearchAlgorithm.py" />
+        <option value="$PROJECT_DIR$/Search/AStarAlgorithm.py" />
         <option value="$PROJECT_DIR$/Entrance.py" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="243" />
-    <option name="y" value="48" />
+    <option name="x" value="-74" />
+    <option name="y" value="38" />
     <option name="width" value="1401" />
     <option name="height" value="852" />
   </component>
@@ -130,18 +150,7 @@
             <path>
               <item name="MathineLeanring" type="b2602c69:ProjectViewProjectNode" />
               <item name="MathineLeanring" type="462c0819:PsiDirectoryNode" />
-              <item name="Apriori" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="MathineLeanring" type="b2602c69:ProjectViewProjectNode" />
-              <item name="MathineLeanring" type="462c0819:PsiDirectoryNode" />
-              <item name="DecisionTree" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="MathineLeanring" type="b2602c69:ProjectViewProjectNode" />
-              <item name="MathineLeanring" type="462c0819:PsiDirectoryNode" />
-              <item name="DecisionTree" type="462c0819:PsiDirectoryNode" />
-              <item name="decision_tree_data" type="462c0819:PsiDirectoryNode" />
+              <item name="Search" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -213,7 +222,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="243" y="48" width="1401" height="852" extended-state="0" />
+    <frame x="-74" y="38" width="1401" height="852" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.22246377" />
@@ -221,13 +230,13 @@
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.9605263" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.45657894" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Version Control" order="7" />
-      <window_info anchor="bottom" id="Terminal" order="8" weight="0.32970452" />
+      <window_info anchor="bottom" id="Terminal" order="8" weight="0.32894737" />
       <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
       <window_info anchor="bottom" id="Python Console" order="10" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -285,10 +294,24 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/Search/AStarAlgorithm.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1513">
+          <caret line="15" column="12" selection-start-line="15" selection-start-column="12" selection-end-line="15" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Search/SearchAlgorithm.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-172">
+          <caret line="30" lean-forward="true" selection-end-line="56" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/Entrance.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="45">
-          <caret line="3" column="35" lean-forward="true" selection-start-line="3" selection-start-column="35" selection-end-line="3" selection-end-column="35" />
+        <state relative-caret-position="75">
+          <caret line="5" column="29" selection-start-line="5" selection-start-column="29" selection-end-line="5" selection-end-column="29" />
           <folding>
             <element signature="e#0#36#0" expanded="true" />
           </folding>
