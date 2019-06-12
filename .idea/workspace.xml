@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0b55907e-54cc-4d02-9372-22d56e1ae22c" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Cluster/KMeans.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Entrance.py" beforeDir="false" afterPath="$PROJECT_DIR$/Entrance.py" afterDir="false" />
     </list>
@@ -14,50 +13,44 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Cluster/KMeans.py">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/GeneticAlgorithm/GeneticAlgorithm.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="269">
-              <caret line="128" column="13" selection-start-line="128" selection-start-column="13" selection-end-line="128" selection-end-column="13" />
+            <state relative-caret-position="65">
+              <caret line="14" selection-start-line="14" selection-end-line="15" selection-end-column="25" />
               <folding>
-                <element signature="e#0#36#0" expanded="true" />
+                <element signature="e#0#11#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Cluster/matplotlib_status">
+        <entry file="file://$PROJECT_DIR$/DecisionTree/DecisionTreeID3.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="105">
-              <caret line="7" column="1" selection-start-line="7" selection-end-line="7" selection-end-column="1" />
+            <state relative-caret-position="165">
+              <caret line="11" column="33" selection-start-line="11" selection-start-column="33" selection-end-line="11" selection-end-column="33" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/AntColonyAlgorithm/TSP.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="200">
+              <caret line="218" column="29" selection-start-line="218" selection-start-column="29" selection-end-line="218" selection-end-column="29" />
+              <folding>
+                <element signature="e#0#13#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/venv/lib/python3.6/site-packages/pandas/__init__.py">
+        <entry file="file://$PROJECT_DIR$/venv/lib/python3.6/site-packages/numpy/lib/function_base.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="30">
-              <caret line="2" column="14" selection-start-line="2" selection-start-column="10" selection-end-line="2" selection-end-column="14" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Cluster/handle_3D_spatial_network.txt">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="53894">
-              <caret line="9999" column="40" selection-start-line="9999" selection-start-column="40" selection-end-line="9999" selection-end-column="40" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Cluster/3D_spatial_network.txt">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="14985">
-              <caret line="999" column="40" selection-start-line="999" selection-start-column="40" selection-end-line="999" selection-end-column="40" />
+            <state relative-caret-position="31350">
+              <caret line="2090" selection-start-line="2090" selection-end-line="2090" />
             </state>
           </provider>
         </entry>
@@ -74,26 +67,17 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Search/AStarAlgorithm.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="225">
-              <caret line="15" column="12" selection-start-line="15" selection-start-column="12" selection-end-line="15" selection-end-column="12" />
+            <state relative-caret-position="1875">
+              <caret line="125" selection-start-line="125" selection-end-line="126" selection-end-column="67" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/DecisionTree/DecisionTreeID3.py">
+        <entry file="file://$PROJECT_DIR$/AntColonyAlgorithm/city_text">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="105">
-              <caret line="7" selection-start-line="7" selection-end-line="17" selection-end-column="16" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/DecisionTree/decision_tree_data/discrete-test.txt">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="45">
-              <caret line="3" column="39" selection-end-line="3" selection-end-column="39" />
+            <state relative-caret-position="435">
+              <caret line="29" column="9" selection-start-line="29" selection-start-column="9" selection-end-line="29" selection-end-column="9" />
             </state>
           </provider>
         </entry>
@@ -103,6 +87,20 @@
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="285">
               <caret line="19" column="32" selection-end-line="20" selection-end-column="42" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/DecisionTree/decision_tree_data/continuous-test.txt">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/DecisionTree/decision_tree_data/discrete-test.txt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="45">
+              <caret line="3" column="39" selection-end-line="3" selection-end-column="39" />
             </state>
           </provider>
         </entry>
@@ -126,23 +124,26 @@
         <option value="$PROJECT_DIR$/AprioriAlgorithm.py" />
         <option value="$PROJECT_DIR$/DecisionTree/decision_tree_data/discrete-training.txt" />
         <option value="$PROJECT_DIR$/Apriori/Test.py" />
-        <option value="$PROJECT_DIR$/DecisionTree/DecisionTreeID3.py" />
         <option value="$PROJECT_DIR$/Search/SearchAlgorithm.py" />
         <option value="$PROJECT_DIR$/Search/AStarAlgorithm.py" />
         <option value="$APPLICATION_CONFIG_DIR$/idea.properties" />
-        <option value="$PROJECT_DIR$/Entrance.py" />
         <option value="$PROJECT_DIR$/Cluster/handle_3D_spatial_network.txt" />
         <option value="$PROJECT_DIR$/Cluster/3D_spatial_network.txt" />
         <option value="$PROJECT_DIR$/Cluster/matplotlib_status" />
         <option value="$PROJECT_DIR$/Cluster/KMeans.py" />
+        <option value="$PROJECT_DIR$/GeneticAlgorithm/GeneticAlgorithm.py" />
+        <option value="$PROJECT_DIR$/AntColonyAlgorithm/city_text" />
+        <option value="$PROJECT_DIR$/Entrance.py" />
+        <option value="$PROJECT_DIR$/DecisionTree/DecisionTreeID3.py" />
+        <option value="$PROJECT_DIR$/AntColonyAlgorithm/TSP.py" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="250" />
-    <option name="y" value="170" />
-    <option name="width" value="1333" />
-    <option name="height" value="877" />
+    <option name="x" value="149" />
+    <option name="y" value="23" />
+    <option name="width" value="1400" />
+    <option name="height" value="738" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="1" id="Add" />
@@ -152,7 +153,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -163,23 +163,28 @@
             <path>
               <item name="MathineLeanring" type="b2602c69:ProjectViewProjectNode" />
               <item name="MathineLeanring" type="462c0819:PsiDirectoryNode" />
-              <item name="Cluster" type="462c0819:PsiDirectoryNode" />
+              <item name="AntColonyAlgorithm" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="MathineLeanring" type="b2602c69:ProjectViewProjectNode" />
               <item name="MathineLeanring" type="462c0819:PsiDirectoryNode" />
-              <item name="DecisionTree" type="462c0819:PsiDirectoryNode" />
+              <item name="Apriori" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="MathineLeanring" type="b2602c69:ProjectViewProjectNode" />
               <item name="MathineLeanring" type="462c0819:PsiDirectoryNode" />
-              <item name="DecisionTree" type="462c0819:PsiDirectoryNode" />
-              <item name="decision_tree_data" type="462c0819:PsiDirectoryNode" />
+              <item name="GeneticAlgorithm" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="MathineLeanring" type="b2602c69:ProjectViewProjectNode" />
+              <item name="MathineLeanring" type="462c0819:PsiDirectoryNode" />
+              <item name="Search" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -257,22 +262,22 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="105" y="286" width="1333" height="877" extended-state="0" />
+    <frame x="149" y="23" width="1400" height="738" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.23323171" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.21319798" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" sideWeight="0.4992378" weight="0.3299363" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.67759144" visible="true" weight="0.45605096" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.680203" visible="true" weight="0.45510834" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.32894737" />
       <window_info anchor="bottom" id="Version Control" order="7" weight="0.32894737" />
       <window_info anchor="bottom" id="Terminal" order="8" sideWeight="0.4992378" weight="0.31847134" />
-      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.32240853" side_tool="true" visible="true" weight="0.45605096" />
+      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.31979695" side_tool="true" visible="true" weight="0.45510834" />
       <window_info anchor="bottom" id="Python Console" order="10" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -288,30 +293,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor />
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/DecisionTree/decision_tree_data/continuous-test.txt">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/DecisionTree/decision_tree_data/continuous-training.txt">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Entrance.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="6" selection-start-line="6" selection-end-line="6" />
-          <folding>
-            <element signature="e#0#36#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$APPLICATION_CONFIG_DIR$/idea.properties">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="30">
@@ -319,31 +300,21 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Search/SearchAlgorithm.py">
+    <entry file="file://$PROJECT_DIR$/Cluster/handle_3D_spatial_network.txt" />
+    <entry file="file://$PROJECT_DIR$/Cluster/KMeans.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="450">
-          <caret line="30" selection-end-line="56" />
+        <state relative-caret-position="105">
+          <caret line="10" column="68" selection-end-line="133" />
+          <folding>
+            <element signature="e#0#36#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Search/AStarAlgorithm.py">
+    <entry file="file://$PROJECT_DIR$/Cluster/3D_spatial_network.txt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="15" column="12" selection-start-line="15" selection-start-column="12" selection-end-line="15" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/DecisionTree/decision_tree_data/discrete-test.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="45">
-          <caret line="3" column="39" selection-end-line="3" selection-end-column="39" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/DecisionTree/decision_tree_data/discrete-training.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="19" column="32" selection-end-line="20" selection-end-column="42" />
+        <state>
+          <caret selection-end-line="3" selection-end-column="40" />
         </state>
       </provider>
     </entry>
@@ -356,38 +327,121 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Cluster/matplotlib_status">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="7" column="1" selection-start-line="7" selection-end-line="7" selection-end-column="1" />
+        <state relative-caret-position="135">
+          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="14" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Cluster/handle_3D_spatial_network.txt">
+    <entry file="file://$PROJECT_DIR$/venv/lib/python3.6/site-packages/matplotlib/text.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="53894">
-          <caret line="9999" column="40" selection-start-line="9999" selection-start-column="40" selection-end-line="9999" selection-end-column="40" />
+        <state relative-caret-position="2415">
+          <caret line="175" selection-start-line="175" selection-end-line="175" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Cluster/3D_spatial_network.txt">
+    <entry file="file://$PROJECT_DIR$/venv/lib/python3.6/site-packages/matplotlib/axes/_axes.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="14985">
-          <caret line="999" column="40" selection-start-line="999" selection-start-column="40" selection-end-line="999" selection-end-column="40" />
+        <state relative-caret-position="2625">
+          <caret line="211" selection-start-line="211" selection-end-line="211" />
         </state>
       </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/venv/lib/python3.6/site-packages/matplotlib/pyplot.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45090">
+          <caret line="3055" selection-start-line="3055" selection-end-line="3055" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Entrance.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="15" lean-forward="true" selection-start-line="8" selection-start-column="15" selection-end-line="8" selection-end-column="15" />
+          <folding>
+            <element signature="e#0#36#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DecisionTree/decision_tree_data/continuous-training.txt">
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/DecisionTree/DecisionTreeID3.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="7" selection-start-line="7" selection-end-line="17" selection-end-column="16" />
+        <state relative-caret-position="165">
+          <caret line="11" column="33" selection-start-line="11" selection-start-column="33" selection-end-line="11" selection-end-column="33" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Cluster/KMeans.py">
+    <entry file="file://$PROJECT_DIR$/venv/lib/python3.6/site-packages/numpy/lib/function_base.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="269">
-          <caret line="128" column="13" selection-start-line="128" selection-start-column="13" selection-end-line="128" selection-end-column="13" />
+        <state relative-caret-position="31350">
+          <caret line="2090" selection-start-line="2090" selection-end-line="2090" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Search/SearchAlgorithm.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="450">
+          <caret line="30" selection-end-line="56" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Search/AStarAlgorithm.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1875">
+          <caret line="125" selection-start-line="125" selection-end-line="126" selection-end-column="67" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AntColonyAlgorithm/city_text">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="435">
+          <caret line="29" column="9" selection-start-line="29" selection-start-column="9" selection-end-line="29" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DecisionTree/decision_tree_data/discrete-training.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="19" column="32" selection-end-line="20" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DecisionTree/decision_tree_data/continuous-test.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DecisionTree/decision_tree_data/discrete-test.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" column="39" selection-end-line="3" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/GeneticAlgorithm/GeneticAlgorithm.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="65">
+          <caret line="14" selection-start-line="14" selection-end-line="15" selection-end-column="25" />
           <folding>
-            <element signature="e#0#36#0" expanded="true" />
+            <element signature="e#0#11#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AntColonyAlgorithm/TSP.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="200">
+          <caret line="218" column="29" selection-start-line="218" selection-start-column="29" selection-end-line="218" selection-end-column="29" />
+          <folding>
+            <element signature="e#0#13#0" expanded="true" />
           </folding>
         </state>
       </provider>
